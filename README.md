@@ -13,7 +13,7 @@ O **BizRadar AI** é uma plataforma de **Inteligência Artificial** que revoluci
 - **🏆 Algoritmos Proprietários**: CRI, PCS e 6+ fatores de análise avançada
 - **🗺️ Geointeligência**: Integração com 5 APIs para dados precisos e atualizados
 
-## 🎯 Fluxo de Análise
+## 🎯 Fluxo de Análise 
 
 ### 📊 **Fluxo Tradicional (v1.0)**
 
